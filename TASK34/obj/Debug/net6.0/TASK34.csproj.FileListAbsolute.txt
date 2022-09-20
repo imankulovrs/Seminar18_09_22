@@ -1,0 +1,15 @@
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\bin\Debug\net6.0\TASK34.exe
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\bin\Debug\net6.0\TASK34.deps.json
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\bin\Debug\net6.0\TASK34.runtimeconfig.json
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\bin\Debug\net6.0\TASK34.dll
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\bin\Debug\net6.0\TASK34.pdb
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\obj\Debug\net6.0\TASK34.csproj.AssemblyReference.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\obj\Debug\net6.0\TASK34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\obj\Debug\net6.0\TASK34.AssemblyInfoInputs.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\obj\Debug\net6.0\TASK34.AssemblyInfo.cs
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\obj\Debug\net6.0\TASK34.csproj.CoreCompileInputs.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\obj\Debug\net6.0\TASK34.dll
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\obj\Debug\net6.0\refint\TASK34.dll
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\obj\Debug\net6.0\TASK34.pdb
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\obj\Debug\net6.0\TASK34.genruntimeconfig.cache
+C:\Users\Эльвира\Desktop\GB.ru\SEMINAR_18_09_22\TASK34\obj\Debug\net6.0\ref\TASK34.dll
